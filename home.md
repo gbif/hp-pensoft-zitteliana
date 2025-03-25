@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 preTitle: Hosted Portal
-title: Biodiversity Data Journal
-description: Browse data on GBIF associated with publications in Biodiversity Data Journal
-background: /assets/images/placeholders/bdj-hp-cover.jpg
-imageLicense: Potter ME, Bremer JS, Moore MR, Talamas EJ, Shrewsbury PM (2023) _Telenomus cristatus_ Johnson (Hymenoptera, Scelionidae) new diagnostic data, distribution records and host associations. Biodiversity Data Journal 11, [https://doi.org/10.3897/BDJ.11.e111347](https://doi.org/10.3897/BDJ.11.e111347)
+title: Zitteliana
+description: Browse data on GBIF associated with publications in Zitteliana
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Wieneke U, Smirnov PV, Maslennikov A, Trubin YS (2024) Description of a new species of _Aporrhais_ (Gastropoda, Stromboidea) from the Upper Eocene of Western Siberia. Zitteliana 98: 11-18. [https://doi.org/10.3897/zitteliana.98.129065](https://doi.org/10.3897/zitteliana.98.129065)"
 height: 75vh
 cta:
   - text: Datasets
